@@ -1,0 +1,26 @@
+{
+	"name": "upgraded-rotary",
+	"version": "1.0.0",
+	"description": "programmer-survey",
+	"main": "index.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Spencerish/upgraded-rotary.git"
+	},
+	"author": "Spencerish",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Spencerish/upgraded-rotary/issues"
+	},
+	"homepage": "https://github.com/Spencerish/upgraded-rotary#readme",
+	"dependencies": {},
+	"devDependencies": {
+		"@vue/cli-plugin-eslint": "^4.5.13",
+		"babel-eslint": "^10.1.0",
+		"eslint": "^7.27.0",
+		"eslint-plugin-vue": "^7.9.0"
+	}
+}
